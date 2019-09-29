@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="2237" started-at="2019-09-29T13:45:59Z" finished-at="2019-09-29T13:46:01Z">
+  <suite name="Default suite" duration-ms="2812" started-at="2019-09-29T14:13:01Z" finished-at="2019-09-29T14:13:04Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="2237" started-at="2019-09-29T13:45:59Z" finished-at="2019-09-29T13:46:01Z">
-      <class name="pkg.testDelete">
-        <test-method status="PASS" signature="testPostRequest()[pri:0, instance:pkg.testDelete@1efbd816]" name="testPostRequest" duration-ms="2223" started-at="2019-09-29T19:15:59Z" finished-at="2019-09-29T19:16:01Z">
+    <test name="Default test" duration-ms="2812" started-at="2019-09-29T14:13:01Z" finished-at="2019-09-29T14:13:04Z">
+      <class name="pkg.testPut">
+        <test-method status="PASS" signature="testPutRequest()[pri:0, instance:pkg.testPut@1efbd816]" name="testPutRequest" duration-ms="2799" started-at="2019-09-29T19:43:01Z" finished-at="2019-09-29T19:43:04Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testPostRequest -->
-      </class> <!-- pkg.testDelete -->
+        </test-method> <!-- testPutRequest -->
+      </class> <!-- pkg.testPut -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
